@@ -1,0 +1,16 @@
+{
+    "input": "samplesheet.txt",
+    "FW_primer": "GTGYCAGCMGCCGCGGTAA",
+    "RV_primer": "GGACTACNVGGGTWTCTAAT",
+    "metadata": "metadata.txt",
+    "outdir": "$SCRATCH/project/results",
+    "filter_ssu": "bac,arc",
+    "metadata_category": "Group",
+    "metadata_category_barplot": "Group",
+    "qiime_adonis_formula": "Group",
+    "ancombc": true,
+    "ancombc_formula": "Group",
+    "ancombc_formula_reflvl": "'Group::Control'",
+    "save_intermediates": true,
+    "report_title": "Default Ampliseq Run"
+}
